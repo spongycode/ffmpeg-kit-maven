@@ -1,6 +1,6 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.arthenica</groupId>
+  <groupId>com.spongycode</groupId>
   <artifactId>ffmpeg-kit-full-gpl</artifactId>
   <version>6.0-2.LTS</version>
   <packaging>aar</packaging>
